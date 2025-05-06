@@ -3,3 +3,11 @@ repository: gsss_mongo_mtd_4GW24CS408_411
 
 thrisha 
 yogitha
+
+
+A simple python code
+
+a=10
+b=20
+c=a+b
+print("the sum of a=",a,"and b=",b,"is:",c)
